@@ -32,10 +32,8 @@ Papers should be submitted following the instructions at the IEEE WCCI 2024 webs
 Please select the main research topic as the Special Session on "__Evolutionary Computation in Healthcare Industry__". 
 Accepted papers will be included and published in the conference proceedings.
 
-
-## Important Dates:
-For participants planning to submit a paper to the 2024 IEEE WCCI:
-### Paper submission: 13 Jan 2023
+## Important Dates
+  - Paper submission: 13 Jan 2023
   - Paper reviews: 3 Mar 2023 
   - Paper re-submission: 24 Mar 2023 
   - Paper final notifications: 31 Mar 2023
