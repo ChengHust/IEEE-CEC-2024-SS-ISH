@@ -40,6 +40,7 @@ Accepted papers will be included and published in the conference proceedings.
   - Paper submission: 29 Jan 2023
   - Paper Acceptance Notification: 15 Mar 2023 
   - Conference Date: 30 Jun – 5 Jul 2024, Yokohama, Japan
+    
 Note: You are encouraged to submit your paper to the given at [CEC 2024](https://2024.ieeewcci.org/).
 
 
