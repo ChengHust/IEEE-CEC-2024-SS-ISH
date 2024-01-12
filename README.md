@@ -37,11 +37,9 @@ Please select the main research topic as the Special Session on "__Evolutionary 
 Accepted papers will be included and published in the conference proceedings.
 
 ## Important Dates
-  - Paper submission: 13 Jan 2023
-  - Paper reviews: 3 Mar 2023 
-  - Paper re-submission: 24 Mar 2023 
-  - Paper final notifications: 31 Mar 2023
-  - Conference: 30 Jun – 5 Jul 2024, Yokohama, Japan
+  - Paper submission: 29 Jan 2023
+  - Paper Acceptance Notification: 15 Mar 2023 
+  - Conference Date: 30 Jun – 5 Jul 2024, Yokohama, Japan
 Note: You are encouraged to submit your paper to the given at [CEC 2024](https://2024.ieeewcci.org/).
 
 
